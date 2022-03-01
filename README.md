@@ -1,2 +1,7 @@
-# Formulario-MVC
-Disciplina: Frameworks Full Stack (Prof. Antonio Dias)
+# Criar um programa web que grava dados de nome, email e senha utilizando MVC
+
+Criar um programa web que grava dados de nome, email e senha utilizando MVC e gravando dados em qualquer base de dados
+
+<h3>Disciplina: Frameworks Full Stack (Prof. Antonio Dias)</h3>
+
+Faculdade Impacta de Tecnologica - FIT
