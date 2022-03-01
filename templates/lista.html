@@ -1,0 +1,21 @@
+<html>
+<body>
+    
+    <table border = 1>
+        <thead>
+           <td>Nome</td>
+           <td>Email</td>
+        </thead>
+        
+        {% for item in datas %}
+           <tr>
+              <td>{{item[0]}}</td>
+              <td>{{item[1]}}</td>
+           </tr>
+        {% endfor %}
+     </table>
+
+    <p><a href = '/'>Clique aqui para voltar para a página inicial.</a></p>
+
+</body>
+</html>
